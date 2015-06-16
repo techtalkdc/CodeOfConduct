@@ -1,6 +1,6 @@
-The Node.dc community is made up of a mixture of professionals and volunteers with different levels of understanding and personal beliefs. This diversity is one of our strengths, and in an effort to enrich and protect our community we’ve enacted this Code of Conduct to be followed during all events, online dicussions on forums and chatrooms, and code projects (including issue discussions and pull requests).
+The Tech Talk DC community is made up of a mixture of professionals and volunteers with different levels of understanding and personal beliefs. This diversity is one of our strengths, and in an effort to enrich and protect our community we’ve enacted this Code of Conduct to be followed during all events, online dicussions on forums and chatrooms, and code projects (including issue discussions and pull requests).
 
-Node.dc is dedicated to providing a harassment-free community experience for everyone, regardless of gender, gender identity and expression, sexual orientation, disability, physical appearance, body size, race, age or religion. We do not tolerate harassment of community participants in any form. Sexual language and imagery is not appropriate for any community venue, including talks, hack nights, and in public spaces such as bars. Community participants violating these rules may be sanctioned or expelled from events and the online meetup community without a refund (if applicable) at the discretion of the community organizers.
+Tech Talk DC is dedicated to providing a harassment-free community experience for everyone, regardless of gender, gender identity and expression, sexual orientation, disability, physical appearance, body size, race, age or religion. We do not tolerate harassment of community participants in any form. Sexual language and imagery is not appropriate for any community venue, including talks, hack nights, and in public spaces such as bars. Community participants violating these rules may be sanctioned or expelled from events and the online meetup community without a refund (if applicable) at the discretion of the community organizers.
 
 Harassment includes verbal comments that reinforce social structures of domination related to gender, gender identity and expression, sexual orientation, disability, physical appearance, body size, race, age, religion; sexual images in public spaces; deliberate intimidation, stalking, following, harassing photography or recording; sustained disruption of talks or other events; inappropriate physical contact; and unwelcome sexual attention. Participants asked to stop any harassing behavior are expected to comply immediately.
 
@@ -12,11 +12,8 @@ Presentations or similar events should not be stopped for one-time gaffes or min
 
 Organizers will be happy to help participants contact local law enforcement, provide escorts, or otherwise assist those experiencing harassment to feel safe for the duration of the event. We value your attendance, and want you to feel comfortable, safe, and supported.
 
-- To report any form of harassment or to seek immediate help, contact any of the Node.dc organizers present:
-
-  - [Andrew Dunkman](http://www.meetup.com/node-dc/members/17692571/) at adunkman@gmail.com, (630) 310-0720.
-  - [Dan MacTough](http://www.meetup.com/node-dc/members/55166232/) at danmactough@gmail.com, (202) 415-2258.
-  - [Josh Finnie](http://www.meetup.com/node-dc/members/26710252/) at josh@jfin.us, (860) 716-5996.
+- To report any form of harassment or to seek immediate help, contact any of the Tech Talk DC organizers present:
+  - [Tech Talk DC Leaders](http://www.meetup.com/TechTalkDC/members/?op=leaders)
 
 - To file a police report, contact 911.
 
