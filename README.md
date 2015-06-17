@@ -19,10 +19,10 @@ Organizers will be happy to help participants contact local law enforcement, pro
 
 - For immediate support in case of sexual assault, contact the DC sexual assault hotline at (202) 333-RAPE.
 
-- If you are in need of a safe ride, Yellow Cab can be reached at (202) 544-1212.
+- If you are in need of a safe ride, Red Top Cab can be reached at (703) 522-3333.
 
 We expect participants and organizers to follow these rules at all community venues and community-related social events.
 
-It is through thoughtful dialog and careful listening that we can encourage each other to do great things. We are committed to making Node.dc a place where you can develop and share your skills, both as they relate to programming and to communication.
+It is through thoughtful dialog and careful listening that we can encourage each other to do great things. We are committed to making Tech Talk DC a place where you can develop and share your skills, both as they relate to programming and to communication.
 
 > “Every day, think as you wake up, today I am fortunate to be alive, I have a precious human life, I am not going to waste it. I am going to use all my energies to develop myself, to expand my heart out to others; to achieve enlightenment for the benefit of all beings. I am going to have kind thoughts towards others, I am not going to get angry or think badly about others. I am going to benefit others as much as I can.” ― Dalai Lama XIV
